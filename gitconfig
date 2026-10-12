@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = carole.fonkoua@gmail.com
+	name = Carole Ndiaye
